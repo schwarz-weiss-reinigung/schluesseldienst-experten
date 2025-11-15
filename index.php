@@ -3,7 +3,7 @@
 header('Content-Type: text/html; charset=UTF-8');
 $page_title = "247+ Schlosserstandorte in NRW - Professionelle Türöffnung 24/7";
 $site_name = "Schluesseldienst Experten";
-$canonical_url = "https://schluesseldienst-experten.de/standort/";
+$canonical_url = "https://schluesseldienst-experten-d40963ccd28c.herokuapp.com/";
 $logo_url = "https://schluesseldienst-experten.de/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-04_16_51-PM.png";
 ?>
 <!DOCTYPE html>
@@ -11,6 +11,7 @@ $logo_url = "https://schluesseldienst-experten.de/wp-content/uploads/2025/10/Cha
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="3mzUiSIoLmrq_m8ZCPRRbJlnHo78RZncHEqYA3HMC7g" />
     <meta name="description" content="Entdecken Sie 247+ Schlosserstandorte in NRW für schnelle Türöffnung. Professionelle Schlüsseldienste mit 24/7 Notdienst & fairen Preisen in Ihrer Nähe.">
     <meta name="keywords" content="Schlosserstandorte, Schlüsseldienst NRW, Türöffnung Nordrhein-Westfalen, Notdienst, Einbruchschutz, Schließanlagen, seriöser Schlüsseldienst">
     <meta name="author" content="<?php echo $site_name; ?>">
